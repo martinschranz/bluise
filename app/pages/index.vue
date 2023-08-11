@@ -35,9 +35,8 @@
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
         <img
-          alt="Hero"
           class="rounded shadow-xl"
-          src="/images/uploads/ultrasound.jpg",
+          src="/images/uploads/ultrasound.jpeg",
         />
       </div>
     </div>
